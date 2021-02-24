@@ -1,0 +1,67 @@
+
+W
+java:S1119F";Refactor the code to remove this label and the need for it.(ÏËÕ48ÆäÅ¿—.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Úòê8ÆäÅ¿—.
+|
+java:S1450"ZRemove the "averageTime" field and declare it as a local variable in the relevant methods.(ü¶ÕŸøÿÿÿÿ8ÆäÅ¿—.
+g
+java:S2095Ï"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(¯àªÑ8ÆäÅ¿—.
+m	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‰ 8ÆäÅ¿—.
+w
+java:S1192("ZDefine a constant instead of duplicating this literal "mongodb://LocalHost:27017" 3 times.(¯àªÑ8ÆäÅ¿—.
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Éß÷øÿÿÿÿ8ÆäÅ¿—.
+g
+java:S2095â"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(¯àªÑ8ÆäÅ¿—.
+p
+java:S1192®"MDefine a constant instead of duplicating this literal "\nSeat No : " 3 times.(ñåÏüÿÿÿÿ8ÆäÅ¿—.
+ƒ
+java:S1192°"`Define a constant instead of duplicating this literal "-fx-background-color: #F1C40F  " 4 times.(é…ÌĞúÿÿÿÿ8ÆäÅ¿—.
+g
+java:S2095Ş"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.( ­¼Ü8ÆäÅ¿—.
+J
+java:S1602Ú",Remove useless curly braces around statement(Å¶À8ÆäÅ¿—.
+n	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÎØ¦8·Œú½–.
+_
+java:S1854å"<Remove this useless assignment to local variable "document".(½Ä°¼şÿÿÿÿ8ÆäÅ¿—.
+P
+java:S1199­"-Extract this nested code block into a method.(¸¥Ò³úÿÿÿÿ8ÆäÅ¿—.
+k
+java:S1192®"HDefine a constant instead of duplicating this literal "Name : " 4 times.(ñåÏüÿÿÿÿ8ÆäÅ¿—.
+t
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ºşúùÿÿÿÿ8ÆäÅ¿—.
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô›Õí8ÆäÅ¿—.
+A
+java:S2119Ã"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ÆäÅ¿—.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª»Û8ÆäÅ¿—.
+h	java:S128s"LEnd this switch case with an unconditional break, return or throw statement.(ºİŸª8äÍ¿—.
+`
+java:S1854ç"=Remove this useless assignment to local variable "passenger".(ëÂãüÿÿÿÿ8ÆäÅ¿—.
+p
+java:S3776ı"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ëáÎû8ÆäÅ¿—.
+~
+java:S1192‚"`Define a constant instead of duplicating this literal "-fx-background-color: #17202A  " 7 times.(éœ¬Ñ8ÆäÅ¿—.
+{
+java:S1192†"XDefine a constant instead of duplicating this literal "-fx-text-fill: #F7F9F9 " 5 times.(áÑÔıÿÿÿÿ8ÆäÅ¿—.
+X	java:S125="<This block of commented-out lines of code should be removed.(òêÌ8ÆäÅ¿—.
+d	java:S899Ü"BDo something with the "boolean" value returned by "createNewFile".(‚ı£şÿÿÿÿ8ÆäÅ¿—.
+P
+java:S1481å"-Remove this unused "document" local variable.(½Ä°¼şÿÿÿÿ8ÆäÅ¿—.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÁİ‡úÿÿÿÿ
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÏÌ§8·Œú½–.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÒŸ;8ùÀŠÄ–.
+^	java:S125š"<This block of commented-out lines of code should be removed.(†­œ¼ÿÿÿÿÿ8ÆäÅ¿—.
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(–˜ÏÊ8ÆäÅ¿—.
+5
+java:S1065F"Remove this unused label.(ÏËÕ48ÆäÅ¿—.
+f
+java:S2095("IUse try-with-resources or close this "MongoClient" in a "finally" clause.(¯àªÑ8ÆäÅ¿—.
+Q
+java:S1481ç".Remove this unused "passenger" local variable.(ëÂãüÿÿÿÿ8ÆäÅ¿—.
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(†­œ¼ÿÿÿÿÿ8ÆäÅ¿—.
+•
+java:S1192ş"rDefine a constant instead of duplicating this literal "************************************************" 12 times.(ù“ÀŸşÿÿÿÿ8ÆäÅ¿—.
+s	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÍÓùÿÿÿÿ8ÆäÅ¿—.
+^	java:S125¶"<This block of commented-out lines of code should be removed.(†­œ¼ÿÿÿÿÿ8ÆäÅ¿—.
+A
+java:S2119ˆ"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ÆäÅ¿—.

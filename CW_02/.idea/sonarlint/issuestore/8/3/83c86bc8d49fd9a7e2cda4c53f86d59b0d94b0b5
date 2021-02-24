@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÁİ‡úÿÿÿÿ
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ßşœ8üœÙõ•.
+R
+java:S2209"5Change this instance-reference to a static reference.(ßşœ8üœÙõ•.
+…
+java:S4165"hRemove this useless assignment; "queueArray" already holds the assigned value along all execution paths.(ßşœ8†•„ı•.
+K
+java:S1121".Extract the assignment out of this expression.(Åå¡‘8©¶  ˜.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(âç•üúÿÿÿÿ8©¶  ˜.
+W
+java:S2209"5Change this instance-reference to a static reference.(âç•üúÿÿÿÿ8©¶  ˜.
+T
+java:S1068"2Remove this unused "maxStayInQueue" private field.(ûŒúÓşÿÿÿÿ8©¶  ˜.
+G
+java:S1068"*Remove this unused "seatNo" private field.(Ë’ö¬8©¶  ˜.

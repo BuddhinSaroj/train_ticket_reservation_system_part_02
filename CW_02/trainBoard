@@ -1,0 +1,26 @@
+Name : abc a
+Seat No : 1
+Processing time : 9
+Waiting time : 9
+
+Name : def d
+Seat No : 42
+Processing time : 18
+Waiting time : 27
+
+Name : suv s
+Seat No : 33
+Processing time : 15
+Waiting time : 42
+
+Name : pqr p
+Seat No : 20
+Processing time : 12
+Waiting time : 54
+
+******************************
+Maximum length of Queue : 4
+Maximum Waiting time : 18
+Minimum Waiting time : 9
+Average Waiting time : 13.0
+******************************
